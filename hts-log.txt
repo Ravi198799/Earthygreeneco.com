@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Nov 2023 03:46:32 at https://earthygreen.lk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://earthygreen.lk/ -O1 "C:\Users\user7\Desktop\EG\earthygreen" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:47:13	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/img/hero-carousel/carousal1 (from https://earthygreen.lk/assets/css/main.css)
+03:47:20	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/img/bg/recycle- (from https://earthygreen.lk/visionR.php)
+03:47:20	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/img/under (from https://earthygreen.lk/service_management.php)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/dist/ (from https://earthygreen.lk/assets/vendor/aos/aos.js)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/${l} (from https://earthygreen.lk/assets/vendor/swiper/swiper-bundle.min.js)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/e (from https://earthygreen.lk/assets/vendor/swiper/swiper-bundle.min.js)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/t.params.url (from https://earthygreen.lk/assets/vendor/swiper/swiper-bundle.min.js)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/img/carousel-1.jpg (from https://earthygreen.lk/assets/css/main3.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/sprite.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/arrow-right-v2.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/arrow-left-v2.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/arrow-d.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/bullet.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/right-arrow-yellow.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/left-arrow-yellow.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/arrow-right.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/right-arrow-white.png (from https://earthygreen.lk/assets/css/style1.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/fonts/glyphicons-halflings-regular.eot (from https://earthygreen.lk/assets/css/bootstrap_cal.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/fonts/glyphicons-halflings-regular.woff2 (from https://earthygreen.lk/assets/css/bootstrap_cal.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/fonts/glyphicons-halflings-regular.woff (from https://earthygreen.lk/assets/css/bootstrap_cal.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/fonts/glyphicons-halflings-regular.ttf (from https://earthygreen.lk/assets/css/bootstrap_cal.css)
+03:47:24	Error: 	"Not Found" (404) at link https://earthygreen.lk/assets/images/glyphicons-halflings-regular.svg (from https://earthygreen.lk/assets/css/bootstrap_cal.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 166 links scanned, 143 files written (34319451 bytes overall) [32167352 bytes received at 618602 bytes/sec], 3104027 bytes transferred using HTTP compression in 78 files, ratio 26%, 16.6 requests per connection
+(22 errors, 0 warnings, 0 messages)
